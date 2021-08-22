@@ -2,7 +2,7 @@
 Hi, I'm Ozan, My Full Name is Fauzan Ramadhani Nukman, My Age is 14 years
 <br>
 
-- 🌱 I Like at :
+- 🌱 I Like :
   - Membantu Keluarga
   - Bersabar
   - Anak kecil
