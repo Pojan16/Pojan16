@@ -2,7 +2,8 @@
 <img src="https://avatars.githubusercontent.com/Pojan16" width="150" height="150"/>
 </p>
 <h1 align='center'>Assalamu'alaikum warahmatullahi wabarakatuh 👋 :wave:</h1>
-Hi, I'm Ozan, My Full Name is Fauzan Ramadhani Nukman, My Age is 14 years
+<a href="//Instagram.com/zeroz04n"><img align="center" src="https://cardivo.vercel.app/api?name=Ozan%20Ramadhan&description=Hi,%20I'm%20Ozan%20Ramadhan,%20My%20Full%20Name%20is%20Fauzan%20Ramadhani%20Nukman,%20My%20Age%20is%2015%20years%20old%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/Pojan16&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@zeroz04n&github=Pojan16&pattern=ticTacToe&colorPattern=%23eaeaea&site=https://linktr.ee/Zeroz04n "/></a>
+</p>
 <br>
 
 - 🌱 I Like :
@@ -25,6 +26,10 @@ Hi, I'm Ozan, My Full Name is Fauzan Ramadhani Nukman, My Age is 14 years
 - 🌷 Mungkin cukup sampai disini aja dulu, Karna udah malem, jadi lanjut besok aja oke? [Ozan](https://github.com/Pojan16) Pamit undur diri dulu babai 👋😃
 
 <h1 align='center'>Wassalamu'alaikum warahmatullahi wabarakatuh 👋 :wave:</h1>
+
+## Hubungi Saya!
+
+[![Linktree](https://img.shields.io/badge/Linktree-25D366?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/Zeroz04n)
 
  <p align="center">
 
