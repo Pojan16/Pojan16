@@ -29,4 +29,7 @@ Hi, I'm Ozan, My Full Name is Fauzan Ramadhani Nukman, My Age is 14 years
 
  </p>
 
-![Ozan Github Stats🚀](https://github-readme-stats.vercel.app/api?username=Pojan16&show_icons=true&theme=tokyonight)
+## Github Statistik
+![Github stat](https://github-readme-stats.vercel.app/api?username=Pojan16&theme=highcontrast&show_icons=true) 
+![Github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pojan16&theme=great-gatsby)
+![Github Info](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pojan16&theme=monokai)
