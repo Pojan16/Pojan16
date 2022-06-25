@@ -1,4 +1,7 @@
-## Assalamu'alaikum warahmatullahi wabarakatuh<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+<p align="center">
+<img src="https://avatars.githubusercontent.com/Pojan16" width="150" height="150"/>
+</p>
+<h1 align='center'>Assalamu'alaikum warahmatullahi wabarakatuh 👋 :wave:</h1>
 Hi, I'm Ozan, My Full Name is Fauzan Ramadhani Nukman, My Age is 14 years
 <br>
 
@@ -21,7 +24,7 @@ Hi, I'm Ozan, My Full Name is Fauzan Ramadhani Nukman, My Age is 14 years
 
 - 🌷 Mungkin cukup sampai disini aja dulu, Karna udah malem, jadi lanjut besok aja oke? [Ozan](https://github.com/Pojan16) Pamit undur diri dulu babai 👋😃
 
-## Wassalamu'alaikum warahmatullahi wabarakatuh<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+<h1 align='center'>Wassalamu'alaikum warahmatullahi wabarakatuh 👋 :wave:</h1>
 
  <p align="center">
 
