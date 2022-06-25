@@ -23,4 +23,10 @@ Hi, I'm Ozan, My Full Name is Fauzan Ramadhani Nukman, My Age is 14 years
 
 ## Wassalamu'alaikum warahmatullahi wabarakatuh<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
+ <p align="center">
+
+ <img src="https://komarev.com/ghpvc/?username=Pojan16&color=blue&label=Total Pengunjung Profil" />
+
+ </p>
+
 ![Ozan Github Stats🚀](https://github-readme-stats.vercel.app/api?username=Pojan16&show_icons=true&theme=tokyonight)
